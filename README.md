@@ -1,3 +1,15 @@
+- OverView of application
+        - fetch data from themoviedb with api-key and display the datas in MovieGrid component 
+        - in app.js a heading and selector of Home component 
+        - in Home.jsx searching input textbox according to searchTerm from this textbox movies are listed below to show the movies according to searchTerm code is in search.jsx
+        - MovieGrid.jsx list all the movies with their poster image, title and an overview and last a button with details 
+        - details button will shows a new div above the rows to describe the overview, title, language, release-date, and image 
+    - external libraries 
+        - react-router-dom is installed but not used all are build with components with same page 
+        - react-bootstrap is used to style the component 
+            like Modal, Card ..
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
